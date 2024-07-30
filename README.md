@@ -96,6 +96,4 @@ The results of each test are printed to the console. After all tests are complet
 
 Ensure you have the necessary permissions to run the disk performance tests and to create/remove files in the specified mount point.
 
-## License
 
-This script is provided "as is" without any warranty. Use at your own risk.
